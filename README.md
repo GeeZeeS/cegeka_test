@@ -9,7 +9,7 @@ docker-compose up
 ```
 
 # Contents
-To access web contents pages go to: http://127.0.0.1:5000
+To access contents vie web pages go to: http://localhost:5000
 
 Available pages:
 * /index
@@ -19,7 +19,7 @@ Available pages:
 
 
 # Shell Contents
-To access shell contents:
+To access contents via shell:
 ```
 docker exec -it cegeka bash
 python manage.py output_cv
