@@ -7,7 +7,7 @@ cli = FlaskGroup(app)
 
 
 def user_input():
-    """Command description and Getting user input"""
+    """Command description and Getting user input."""
     return input("\n\nPlease write the page you would like to output \n"
                  "possible pages are: \nindex \npersonal \nexperience \neducation \n"
                  "to quit write q, quit, exit or e\n: ")
@@ -15,7 +15,7 @@ def user_input():
 
 @cli.command("output_cv")
 def output_cv():
-    """Function returning json response based on user input"""
+    """Function returning json response based on user input."""
     quit_options = ['q', 'quit', 'exit', 'e']
     while True:
         while True:
