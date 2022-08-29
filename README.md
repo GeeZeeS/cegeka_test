@@ -24,9 +24,3 @@ To access shell contents:
 docker exec -it cegeka bash
 python manage.py output_cv
 ```
-
-Available pages:
-* /index
-* /personal
-* /experience
-* /education
