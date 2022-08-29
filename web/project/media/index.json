@@ -1,0 +1,30 @@
+{
+  "about": {
+    "self_projects": [
+      {
+        "pricey.md": {
+          "description": "Price parsing platform from shops in MD",
+          "documentation": "http://pricey.md:8000/docs/",
+          "stack_used": [
+            {
+              "backend": [
+                "python",
+                "fast_api",
+                "mongo_db",
+                "umongo_odb",
+                "beautiful_soup",
+                "aiogram"
+              ]
+            },
+            {
+              "frontend": [
+                "vue_js",
+                "type_script"
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

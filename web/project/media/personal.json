@@ -1,0 +1,42 @@
+{
+  "personal": {
+    "description": "I am an energetic and enthusiastic person who enjoys a challenge and achieving personal goals. My present career aim is to work within IT because I enjoy working with computers, I enjoy the environment and I find the work interesting and satisfying. The opportunity to learn new skills and work with new technologies is particularly attractive to me.",
+    "name": "Denis Vieru",
+    "gender": "Male",
+    "Date of birth": "19/05/1991",
+    "address": "Bul. Traian 6/3 ap. 1, MD2043, Chsinau, Moldova",
+    "email": "roundycube@gmail.com",
+    "phone_number": "(+373) 79654213",
+    "github": "https://github.com/GeeZeeS",
+    "language_skills": [
+      {
+        "native": [
+          {"language": "Romanian", "level": "native"},
+          {"language": "Russian", "level": "native"}
+        ]
+      },
+      {
+        "other": [
+          {"language": "English", "level": "B1-B2"}
+        ]
+      }
+    ],
+    "digital_skills": [
+      {
+        "python": [
+          "Django", "Flask", "Django Rest Framework", "Django ORM", "FlaskSqlAlchemy", "Fast API"
+        ]
+      },
+      {
+        "db": [
+          "PostgreSQL", "MongoDB", "MySQL"
+        ]
+      },
+      {
+        "products": [
+          "GIT", "Docker", "Gitlab CI"
+        ]
+      }
+    ]
+  }
+}

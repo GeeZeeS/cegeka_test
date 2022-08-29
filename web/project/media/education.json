@@ -1,0 +1,22 @@
+{
+  "education": [
+    {
+      "period": [
+        {
+          "from": "2007",
+          "to": "2010"
+        }
+      ],
+      "institution": "College of Construction in Chisinau"
+    },
+    {
+      "period": [
+        {
+          "from": "2013",
+          "to": "present"
+        }
+      ],
+      "institution": "Learning awesome stuff with my hobby as a job."
+    }
+  ]
+}

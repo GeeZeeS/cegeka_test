@@ -1,0 +1,134 @@
+{
+  "experience": [
+    {
+      "period": {
+        "from": "01/03/2020",
+        "to": "01/09/2022"
+      },
+      "position": "Python Developer",
+      "company": "VR Dev Team",
+      "tasks": "Develop platforms for internal usage that can automate the job for L1 admins",
+      "projects": [
+        {
+          "Domain Panel": [
+            "System that registers and stores client domains",
+            "Generates and Auto-renews ssl keys for domains, also clears old and uploads new keys to servers",
+            "Checks if domains are blocked by any AVs",
+            "Domain Renewal System"
+          ]
+        },
+        {
+          "Redics Panel": [
+            "System that stores and generates client domains (randomly generates domain names from a word DB)",
+            "Generates and Auto-renews ssl keys for domains, also clears old and uploads new keys to servers",
+            "Checks if domains are blocked by any AVs",
+            "Main point of application was to keep a number of active domains and not let them go below normal, generate new ones when there is a need and replace when they are blocked."
+          ]
+        },
+        {
+          "CNAME Panel": [
+            "System that generates SSL Certificates for requested domain names",
+            "Generates and Auto-renews ssl keys for domains, also clears old and uploads new keys to servers",
+            "API for domain deletion, ssl certificate generation"
+          ]
+        },
+        {
+          "Rocket Chat Client -> Support contact Panel": [
+            "System that stores support chat and clients rooms.",
+            "Setup Rocket chat bots to forward messages from clients to support groups and vice versa.",
+            "Checks rocket servers status.",
+            "Integrated telegram calls via support bots (On support request, there is a three second call followed by a message to clients in urgent situations)"
+          ]
+        }
+      ],
+      "tech_stack": [
+        "Python",
+        "Flask",
+        "FlaskSqlAlchemy",
+        "PostgreSQL",
+        "Celery",
+        "Redis",
+        "Docker",
+        "GitLab cli",
+        "Aiogram",
+        "PyTGVoIP"
+      ]
+    },
+    {
+      "period": {
+        "from": "01/06/2018",
+        "to": "01/03/2020"
+      },
+      "position": "Python Developer",
+      "company": "Cyberwhale",
+      "tasks": [
+        "Developed the backend for a B2B platform that unified business and clients (https:// b24online.com)",
+        "Developed backend for an Chinese power banks hub service"
+      ],
+      "tech_stack": [
+        "Python",
+        "Django",
+        "Django Rest Framework",
+        "Django ORM",
+        "Flask",
+        "Tortoise ORM",
+        "PostgreSQL",
+        "Celery",
+        "Redis",
+        "Docker",
+        "GitLab cli"
+      ]
+    },
+    {
+      "period": {
+        "from": "01/01/2017",
+        "to": "01/06/2018"
+      },
+      "position": "System Administrator & C# .NET Developer",
+      "company": "Vasconi (Cojocari-Grup SRL)",
+      "tasks": [
+        "Setting and maintaining the working PC's, software set-up and finding solutions for work improvement.",
+        "Setting up video surveillance system in shops.",
+        "Created .NET WINFORM Inventory Management System with step by step Item Production",
+        "Created POS System with Inventory Management System integrated"
+      ]
+    },
+    {
+      "period": {
+        "from": "01/01/2015",
+        "to": "01/06/2019"
+      },
+      "position": "Unity3D Game Development",
+      "company": "Personal Projects",
+      "tasks": [
+        "3 Projects in Alpha Processing created using C# Unity3D Game Engine.",
+        "Projects were published to mobile markets, currently not available for no updates."
+      ]
+    },
+    {
+      "period": {
+        "from": "01/06/2016",
+        "to": "01/01/2017"
+      },
+      "position": "Junior Python Developer",
+      "company": "EBS integrator",
+      "tasks": [
+        "Developing scripts for parsing data from DB to csv/excel files.",
+        "Developing scripts for inserting data from files to DB."
+      ]
+    },
+    {
+      "period": {
+        "from": "01/11/2013",
+        "to": "01/01/2016"
+      },
+      "position": "System Administrator",
+      "company": "FroggyHeart Animation Studio",
+      "tasks": [
+        "Setting and maintaining the working PC's, software set-up and finding solutions for work improvement.",
+        "Setting up the local web and mail servers.",
+        "Setting up the render servers and managing a batch system for render pipelines."
+      ]
+    }
+  ]
+}
