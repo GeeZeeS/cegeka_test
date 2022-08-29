@@ -24,3 +24,4 @@ To access contents via shell:
 docker exec -it cegeka bash
 python manage.py output_cv
 ```
+
